@@ -1,0 +1,7 @@
+[package]
+name = "wikit"
+version = "0.1.0"
+authors = ["prim"]
+edition = "2018"
+
+[dependencies]
