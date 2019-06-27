@@ -9,6 +9,9 @@ $ wikit serach-term
 
 ## Install
 
+You can download the binary directly from the release or build it yourself!
+
+### To build yourself - 
 Make sure you have [cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html) to build the bin!
 
 ```Bash
