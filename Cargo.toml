@@ -6,3 +6,4 @@ edition = "2018"
 
 [dependencies]
 wikipedia = "0.3.3"
+clap = "~2.33"
